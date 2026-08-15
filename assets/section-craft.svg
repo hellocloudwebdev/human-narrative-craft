@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 190" role="img" aria-labelledby="title desc">
+  <title id="title">Narrative craft section</title>
+  <desc id="desc">A minimalist section divider for Human Narrative Craft.</desc>
+  <rect width="1600" height="190" fill="#0b0d12"/>
+  <line x1="80" y1="95" x2="1520" y2="95" stroke="#303846"/>
+  <circle cx="800" cy="95" r="32" fill="#11161d" stroke="#9ca3af" stroke-width="2"/>
+  <path d="M784 95h32M800 79v32" stroke="#d1d5db" stroke-width="2"/>
+  <text x="80" y="60" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">NARRATIVE ARCHITECTURE</text>
+  <text x="1128" y="60" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">01 — CRAFT</text>
+  <text x="80" y="142" fill="#f9fafb" font-family="Georgia, serif" font-size="34" font-weight="700">Structure before surface.</text>
+</svg>
